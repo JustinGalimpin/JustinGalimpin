@@ -2,8 +2,6 @@
 
 I’m a **software developer and digital humanist** with an interdisciplinary background. I first completed a **Master’s in English Literature**, then made the leap into **Computer Science** through UBC’s BCS Second Degree program. I bring storytelling, empathy, and design thinking into my technical work, building tools that are not only functional but also meaningful and accessible.  
 
----
-
 ## 🛠️ Skills
 
 ### Languages
@@ -23,8 +21,6 @@ I’m a **software developer and digital humanist** with an interdisciplinary ba
 - **Languages**: Java, C, C++, C#, Python, HTML, CSS, JavaScript, TypeScript, Visual Basic .NET, Markdown
 - **Frameworks / Libraries**: React, Astro, Tailwind CSS, NumPy, pandas, scikit-learn
 - **Tools / Technologies**: Git, GitHub, VS Code, Jupyter, NetBeans, Oracle, MongoDB, SQL, NoSQL, UiPath
-
----
 
 ## 📫 Let’s Connect
 
