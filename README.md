@@ -6,10 +6,6 @@ I’m a **software developer and digital humanist** with an interdisciplinary ba
 
 ## 🛠️ Skills
 
-**Languages**: Java, C, C++, C#, Python, HTML, CSS, JavaScript, TypeScript, Visual Basic .NET, Markdown
-**Frameworks / Libraries**: React, Astro, Tailwind CSS, NumPy, pandas, scikit-learn
-**Tools / Technologies**: Git, GitHub, VS Code, Jupyter, NetBeans, Oracle, MongoDB, SQL, NoSQL, UiPath
-
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
 ![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
@@ -22,6 +18,11 @@ I’m a **software developer and digital humanist** with an interdisciplinary ba
 
 ### Tools / Technologies
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+
+#### Written Version
+- **Languages**: Java, C, C++, C#, Python, HTML, CSS, JavaScript, TypeScript, Visual Basic .NET, Markdown
+- **Frameworks / Libraries**: React, Astro, Tailwind CSS, NumPy, pandas, scikit-learn
+- **Tools / Technologies**: Git, GitHub, VS Code, Jupyter, NetBeans, Oracle, MongoDB, SQL, NoSQL, UiPath
 
 ---
 
