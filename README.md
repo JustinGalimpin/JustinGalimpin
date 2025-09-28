@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I’m Justin  
 
-<!--
-**JustinGalimpin/JustinGalimpin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **software developer and digital humanist** with an interdisciplinary background — I first completed a **Master’s in English Literature**, then made the leap into **Computer Science** through UBC’s BCS Second Degree program. I bring storytelling, empathy, and design thinking into my technical work, building tools that are not only functional but also meaningful and accessible.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+**Languages**: Java, C, C++, C#, Python, JavaScript, TypeScript, HTML, CSS, SQL, NoSQL, Markdown  
+**Frameworks / Libraries**: React, Tailwind CSS, NumPy, pandas, scikit-learn, GSAP  
+**Tools / Technologies**: Git, GitHub, VS Code, Jupyter, Oracle DB, MongoDB, UiPath, Visual Basic  
+
+---
+
+## 📫 Let’s Connect
+
+- 🌐 [Portfolio Website](#) *(in progress)*  
+- 💼 [LinkedIn](https://www.linkedin.com/in/justin-galimpin/)  
+- 📧 [Email Me](mailto:justingalimpin@gmail.com)  
+
+---
+
+✨ *“I believe software should not only solve problems, but also tell stories and create impact.”*  
