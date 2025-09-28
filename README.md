@@ -14,9 +14,9 @@ I’m a **software developer and digital humanist** with an interdisciplinary ba
 
 ## 📫 Let’s Connect
 
-- 🌐 [Portfolio Website](#) *(in progress)*  
 - 💼 [LinkedIn](https://www.linkedin.com/in/justin-galimpin/)  
-- 📧 [Email Me](mailto:justingalimpin@gmail.com)  
+- 📧 [Email Me!](mailto:justingalimpin@gmail.com)  
+- 🌐 [Portfolio Website](#) *(in progress)*  
 
 ---
 
