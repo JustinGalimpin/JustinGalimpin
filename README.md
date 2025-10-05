@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Justin!  
 
-I’m a **software developer and digital humanist** with an interdisciplinary background. I first completed a **Master’s in English Literature**, then made the leap into **Computer Science** through UBC’s BCS Second Degree program. I bring storytelling, empathy, and design thinking into my technical work, building tools that are not only functional but also meaningful and accessible.  
+I’m a **software developer and digital humanist** with an interdisciplinary background. I first completed a **Master’s in English Literature**, then made the leap into **Computer Science** through UBC’s BCS Second Degree program. I'm currently interested in working with technologies that further enhance educational experiences, but I'm largely open to and actively looking into many parts of the field (e.g. Human-Computer Interaction, Machine Learning, Full-Stack Development, etc.)!  
 
 ## 🛠️ Skills
 
