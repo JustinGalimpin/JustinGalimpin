@@ -2,7 +2,11 @@
 
 I’m a **software developer and digital humanist** with an interdisciplinary background. I first completed a **Master’s in English Literature**, then made the leap into **Computer Science** through UBC’s BCS Second Degree program. I'm currently interested in working with technologies that further enhance educational experiences, but I'm largely open to and actively looking into many parts of the field (e.g. Human-Computer Interaction, Machine Learning, Full-Stack Development, etc.)!  
 
-## 🛠️ Skills
+- 🌐 [Portfolio Website](https://justingalimpin.vercel.app/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/justin-galimpin/)  
+- 📧 [Email Me!](mailto:justingalimpin@gmail.com)  
+
+## Skills
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
@@ -21,12 +25,6 @@ I’m a **software developer and digital humanist** with an interdisciplinary ba
 - **Languages**: Java, C, C++, C#, Python, HTML, CSS, JavaScript, TypeScript, Visual Basic .NET, Markdown
 - **Frameworks / Libraries**: React, Astro, Tailwind CSS, NumPy, pandas, scikit-learn
 - **Tools / Technologies**: Git, GitHub, VS Code, Jupyter, NetBeans, Oracle, MongoDB, SQL, NoSQL, UiPath
-
-## 📫 Let’s Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/justin-galimpin/)  
-- 📧 [Email Me!](mailto:justingalimpin@gmail.com)  
-- 🌐 [Portfolio Website](https://justingalimpin.vercel.app/)  
 
 ---
 
