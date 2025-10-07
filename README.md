@@ -27,5 +27,3 @@ I’m a **software developer and digital humanist** with an interdisciplinary ba
 - **Tools / Technologies**: Git, GitHub, VS Code, Jupyter, NetBeans, Oracle, MongoDB, SQL, NoSQL, UiPath
 
 ---
-
-✨ *“I believe software should not only solve problems, but also tell stories and create impact.”*  
