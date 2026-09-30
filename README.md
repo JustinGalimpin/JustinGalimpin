@@ -1,6 +1,6 @@
 # 🐧 Hi, I’m Justin!  
 
-I’m an aspiring **software developer** with an interdisciplinary background in the arts. I first completed a **Master’s in English Literature**, then made the leap into **Computer Science** through UBC’s BCS Second Degree program. I'm currently interested in working with technologies that further enhance educational experiences, but I'm largely open to and actively looking into many parts of the field (e.g. Human-Computer Interaction, Machine Learning, Full-Stack Development, etc.)!  
+I’m an aspiring **software developer** with an interdisciplinary background in the arts. I first completed a **Bachelor's and Master’s in English Literature**, then made the leap into **Computer Science** through UBC’s BCS Second Degree program. I'm currently interested in working with technologies that further enhance educational experiences, but I'm largely open to and actively looking into many parts of the field (e.g. Human-Computer Interaction, Machine Learning, Full-Stack Development, etc.)!  
 
 - 🌐 [Portfolio Website](https://justing.vercel.app/)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/justin-galimpin/)  
